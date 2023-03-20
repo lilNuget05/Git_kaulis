@@ -1,4 +1,4 @@
-#Git_kaulins
+# Git_kaulins
 Java metamā kauliņa projekts, kurš versionēts ar git
 
 ![metamā kauliņa attēls]
